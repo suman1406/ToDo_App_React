@@ -1,20 +1,14 @@
-```
 # React Todo App
 
-This is a simple Todo App built with React. It allows users to add, edit, delete, and mark tasks as done.
+A simple Todo App built with React, allowing users to add, edit, delete, and mark tasks as done.
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Demo
-
-Include a link to the live demo of your Todo App. You can deploy your app on platforms like Netlify, Vercel, or GitHub Pages.
 
 ## Features
 
@@ -66,4 +60,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
